@@ -35,10 +35,28 @@
         "url": "https://github.com/LinMeng-Haohanyh"
       },
       {
+        "network": "Gitee",
+        "icon":"simple-icons:gitee",
+        "username": "Lin.孟",
+        "url": "https://gitee.com/su-muyao"
+      },
+      {
+        "network": "HuggineFace",
+        "icon":"simple-icons:huggingface",
+        "username": "Hny0305Lin",
+        "url": "https://huggingface.co/Hny0305Lin"
+      },
+      {
         "network": "Hisilicon",
         "icon":"simple-icons:huawei",
         "username": "SailorMoon_Usagi16",
         "url": "https://developers.hisilicon.com/userhomepage?uid=229213b344fb46238d47bc1f209583c9"
+      },
+      {
+        "network": "Minecraft",
+        "icon":"mdi:minecraft",
+        "username": "UsagiLin_Seramun",
+        "url": "https://namemc.com/profile/UsagiLin_Seramun.1"
       }
     ],
     "beian": {
