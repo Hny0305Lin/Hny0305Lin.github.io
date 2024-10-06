@@ -1,6 +1,6 @@
 {
   "analyticsCode": "/clarity.js",
-  "isSingleColumn": true,
+  "pageLayout": "two-column",
   "basics": {
     "name": "Hny0305Lin",
     "label": "Based in Fuzhou, love China🎉.",
@@ -64,25 +64,38 @@
       "police": ""
     }
   },
-  "images": [
-    {
-      "image": "https://i0.hdslb.com/bfs/article/6b4c99037b4a33a9d1a0f97aa7072fc1480025691.jpg@90q_1e_1c.webp",
-      "alt": "Sunset in Nanchang",
-      "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
-    },
-    {
-      "image": "https://i0.hdslb.com/bfs/article/78ffcef7ba3429e847e2bb189f0db92f480025691.jpg@90q_1e_1c.webp",
-      "alt": "My Cat",
-      "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-    }
-  ],
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@100q_1e_1c.webp",
+        "alt": "Sunset in Nanchang",
+        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@100q_1e_1c.webp",
+        "alt": "My Cat",
+        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@100q_1e_1c.webp",
+        "alt": "Emoji",
+        "desc": "True, dude"
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/bf0a653b3fee0f474218e9043ca63f58480025691.jpg@100q_1e_1c.webp",
+        "alt": "基尼奇",
+        "desc": "Genshin, great."
+      }
+    ]
+  },
   "education": [
     {
       "institution": "Nanchang No.27 Middle School",
       "url": "",
       "area": "regular student",
       "studyType": "Full-time student",
-      "startDate": "2020-9-01",
+      "startDate": "2021-9-01",
       "endDate": null
     }
   ],
@@ -376,8 +389,9 @@
     {
       "name": "Cloudflare Vmail",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp",
-        "position": "container"
+        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "position": "container",
+        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
       },
       "isActive": true,
       "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
