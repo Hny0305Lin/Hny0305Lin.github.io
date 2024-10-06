@@ -1,42 +1,49 @@
 {
   "analyticsCode": "/clarity.js",
+  "isSingleColumn": true,
   "basics": {
-    "name": "MiraHikari",
-    "label": "Junior Full Stack Developer",
+    "name": "Hny0305Lin",
+    "label": "Based in Fuzhou, love China🎉.",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "email": "lmj-mc@outlook.com",
+    "url": "https://github.com/Hny0305Lin",
+    "summary": "🤗 I am a programmer developed by Java language and Android software. \n🔭 I am studying the content of the Internet of Things application major and AI.",
+    "theme": "pink",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
+      "address": "Fuzhou",
+      "city": "Fujian Province",
       "countryCode": "CN",
       "region": "China"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
         "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "icon":"ri:qq-fill",
+        "username": "XiaoXi",
+        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=1553809191"
       },
       {
         "network": "GitHub",
-        "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "icon":"mdi:github",
+        "username": "Hny0305Lin",
+        "url": "https://github.com/Hny0305Lin"
+      },
+      {
+        "network": "GitHub",
+        "icon":"mdi:github",
+        "username": "LinMeng",
+        "url": "https://github.com/LinMeng-Haohanyh"
+      },
+      {
+        "network": "Hisilicon",
+        "icon":"simple-icons:huawei",
+        "username": "SailorMoon_Usagi16",
+        "url": "https://developers.hisilicon.com/userhomepage?uid=229213b344fb46238d47bc1f209583c9"
       }
     ],
     "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
+      "mint": "",
+      "police": ""
     }
   },
   "images": [
@@ -55,7 +62,7 @@
     {
       "institution": "Nanchang No.27 Middle School",
       "url": "",
-      "area": "Regular Student",
+      "area": "regular student",
       "studyType": "Full-time student",
       "startDate": "2020-9-01",
       "endDate": null
