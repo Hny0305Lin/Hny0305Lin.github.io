@@ -811,6 +811,22 @@
       ]
     },
     {
+      "name": "KawaMoeii",
+      "image": {
+        "url": "",
+        "position": "background",
+        "dark": ""
+      },
+      "isActive": true,
+      "description": "A professional APP that participated in the embedded technology application development competition of the higher vocational group of the Fujian Vocational College Skills Competition.",
+      "highlights": [
+        "🎯 Baidu PaddlePaddle mobile engine, used for Android embedded OCR license plate recognition.",
+        "✨ OpenCV + TensorflowLite, used for Android embedded Traffic lights, block object detection, license plate center point positioning and color picking.",
+        "😄 Fujian Vocational School Skills Competition, Higher Vocational Group Embedded Technology Application Development Competition, third place in the group.",
+        "🚀 Java, C++, CMake, C, etc."
+      ]
+    },
+    {
       "name": "HuaweiCloud + OpenHarmony + SmartHome",
       "isActive": true,
       "description": "Open source our exploration on Hi3861 and IoT (SmartHome)",
