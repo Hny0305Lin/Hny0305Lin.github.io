@@ -1,6 +1,6 @@
 {
   "analyticsCode": "/clarity.js",
-  "pageLayout": "two-column",
+  "pageLayout": "single-column",
   "basics": {
     "name": "Hny0305Lin",
     "label": "Based in Fuzhou, love China🎉.",
@@ -91,12 +91,28 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "regular student",
-      "studyType": "Full-time student",
+      "institution": "Minjiang Teachers College",
+      "url": "http://www.fzmjtc.cn/",
+      "area": "regular student, computer science and technology. Iot Application Technology.",
+      "studyType": "Five-year students",
       "startDate": "2021-9-01",
-      "endDate": null
+      "endDate": "2023-6-30"
+    },
+    {
+      "institution": "Fuzhou Electromechanical Engineering Vocational&Technical School (Lianpan Campus)",
+      "url": "http://www.fzjdxx.cn/",
+      "area": "regular student, Iot Application Technology.",
+      "studyType": "Five-year students",
+      "startDate": "2018-9-01",
+      "endDate": "2021-6-30"
+    },
+    {
+      "institution": "Fuzhou RI SHENG ZHONG XUE",
+      "url": "http://www.fzrszx.cn/",
+      "area": "regular student.",
+      "studyType": "Three-year students",
+      "startDate": "2015-9-01",
+      "endDate": "2018-6-30"
     }
   ],
   "certificates": [
@@ -105,6 +121,82 @@
       "date": "2023-05-01",
       "url": "",
       "issuer": "Tencent Cloud"
+    },
+    {
+      "name": "China Computer Software Copyright No. 11416943.",
+      "date": "2023-07-13",
+      "url": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY",
+      "issuer": "中华人民共和国国家版权局"
+    },
+    {
+      "name": "物联网系统应用技术（中级）",
+      "date": "2023-03-30",
+      "url": "",
+      "issuer": "工业和信息化部教育与考试中心"
+    },
+    {
+      "name": "福建省职业院校技能大赛高职组嵌入式技术应用开发比赛，团体三等奖",
+      "date": "2023-06-01",
+      "url": "",
+      "issuer": "福建省职业院校技能大赛组委会"
+    },
+    {
+      "name": "福建省第八届“互联网+”创新创业大赛，校赛三等奖，省赛铜奖",
+      "date": "2022-06-30",
+      "url": "https://jyt.fujian.gov.cn/xxgk/zywj/202208/P020220831353712949730.pdf",
+      "issuer": "闽江师范高等专科学校，福建省教育厅，《国务院办公厅关于进一步支持大学生创新创业的指导意见》"
+    },
+    {
+      "name": "第十一届“锐智杯”福建省大学生智能设计大赛省赛，银奖",
+      "date": "2023-06-01",
+      "url": "http://www.fzmjtc.cn/info/1052/7639.htm",
+      "issuer": "福建省教育厅、福建师范大学"
+    },
+    {
+      "name": "第九届海峡两岸暨港澳大学生创新创业成果展，一等奖",
+      "date": "2023-05-01",
+      "url": "https://mp.weixin.qq.com/s/KoxXhrqdGVcoLK66OD47pw",
+      "issuer": "福建省教育厅、福建省人力资源和社会保障厅、平潭综合实验区管委会、海峡两岸大学生职业技能大赛组委会"
+    },
+    {
+      "name": "福建省第十四届中职（技工）院校学生职业技能竞赛信息技术专业智能家居安装与维护（团体）项目，二等奖",
+      "date": "2018-12-16",
+      "url": "",
+      "issuer": "福建省教育局、福州市人力资源和社会保障局"
+    },
+    {
+      "name": "全国计算机等级考试一级合格，计算机基础及MS Office应用",
+      "date": "2022-09-01",
+      "url": "",
+      "issuer": "教育部教育考试院"
+    },
+    {
+      "name": "全国计算机等级考试一级合格，计算机基础及WPS Office应用",
+      "date": "2023-12-01",
+      "url": "",
+      "issuer": "教育部教育考试院"
+    },
+    {
+      "name": "普通话水平测试等级，二级乙等",
+      "date": "2022-05-02",
+      "url": "",
+      "issuer": "国家语言文字工作委员会、福建省语言文字工作委员会办公室"
+    },
+    {
+      "name": "Newland Cert，闽江师范高等专科学校实训基地Java程序设计等级实训，三级考核",
+      "date": "2022-06-28",
+      "url": "",
+      "issuer": "北京新大陆时代教育科技有限公司，闽江师范高等专科学校"
+    },
+    {
+      "name": "Newland Cert，行业岗位实训班结业证书，具有Java企业级应用开发、物联网工程实施与运维，及物联网行业应用开发能力",
+      "date": "2022-12-08",
+      "url": "",
+      "issuer": "北京新大陆时代教育科技有限公司，闽江师范高等专科学校"
+    }
+  ],
+  "awards": [
+    {
     }
   ],
   "work": [
@@ -139,130 +231,273 @@
       }
     },
     {
-      "name": "Riddle Town Team",
+      "name": "Haohanyh",
       "position": "Full-stack Developer",
       "location_type": "Remote",
       "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "url": "https://github.com/Hny0305Lin",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "summary": "Write more than 10 excellent articles, more than 10,000 people read the website.",
       "highlights": [
-        "Completed 95% of project content."
+        "Web Saas, Blog+Donate, Android, NearLink."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Core member.",
+        "Esponsible for a lot of work such as development, maintenance, testing, etc."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Haohanyh.com Blog 10,000+ people read the excellent articles.",
+        "Haohanyh.ovh WebSaas China International College Students’ Innovation Competition 2022 Fujian Province Division, Third Prize.",
+        "Haohanyh IoT Android App, China Computer Software Copyright No. 11416943."
       ],
       "skills": {
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
+        "C#": "mdi:language-csharp",
+        "C": "mdi:language-c",
+        "C++": "mdi:language-cpp",
+        "Java": "mdi:language-java",
+        "MySQL": "simple-icons:mysql",
+        "PHP": "mdi:language-php",
+        "Lua": "mdi:language-lua",
+        "HTML5": "mdi:language-html5",
+        "TypeScript": "mdi:language-typescript",
+        "XML": "simple-icons:xml",
+        "Markdown": "simple-icons:markdown",
         "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
+        "Nginx": "simple-icons:nginx",
+        "Embedded": "devicon-plain:embeddedc",
+        "Rocky": "simple-icons:rockylinux",
+        "Android": "simple-icons:android",
+        "HarmonyOS": "simple-icons:harmonyos",
+        "HisiNearLink": "simple-icons:huawei",
+        "HomeAssistant": "simple-icons:homeassistant",
+        "Hexo": "simple-icons:hexo",
+        "Gitee": "simple-icons:gitee",
         "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Git": "mdi:git",
+        "LCEDA": "simple-icons:easyeda",
+        "Photoshop": "devicon-plain:photoshop",
+        "Filmora": "simple-icons:wondersharefilmora",
+        "Douyin": "ri:tiktok-fill",
+        "OpenCV": "simple-icons:opencv",
+        "PaddlePaddle": "simple-icons:paddlepaddle",
+        "TensorFlow": "simple-icons:tensorflow",
+        "HuggingFace": "simple-icons:huggingface",
+        "Blockchain": "simple-icons:bnbchain",
+        "IPFS": "simple-icons:ipfs",
+        "BitCoin": "mdi:bitcoin"
       }
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
+      "name": "C#",
+      "icon": "mdi:language-csharp",
       "level": "Intermediate",
       "keywords": [
+        "Object-Oriented Programming",
         "Web Development",
-        "Frontend"
+        "Game Development"
       ]
     },
     {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
+      "name": "C",
+      "icon": "mdi:language-c",
+      "level": "Intermediate",
+      "keywords": [
+        "Systems Programming",
+        "Embedded Systems",
+        "Low-Level Programming"
+      ]
+    },
+    {
+      "name": "C++",
+      "icon": "mdi:language-cpp",
+      "level": "Intermediate",
+      "keywords": [
+        "Object-Oriented Programming",
+        "Game Development",
+        "Systems Programming"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "mdi:language-java",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Android Development",
+        "Enterprise Applications"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Database Management",
+        "SQL",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "mdi:language-php",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Server-Side Scripting",
+        "Content Management Systems"
+      ]
+    },
+    {
+      "name": "Lua",
+      "icon": "mdi:language-lua",
+      "level": "Intermediate",
+      "keywords": [
+        "Game Development",
+        "Scripting",
+        "Embedded Systems"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "icon": "mdi:language-html5",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
+        "Markup Language"
       ]
     },
     {
       "name": "TypeScript",
-      "icon": "simple-icons:typescript",
+      "icon": "mdi:language-typescript",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Backend",
         "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
+      "name": "XML",
+      "icon": "simple-icons:xml",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Interchange",
+        "Markup Language",
+        "Web Services"
+      ]
+    },
+    {
+      "name": "Markdown",
+      "icon": "simple-icons:markdown",
+      "level": "Intermediate",
+      "keywords": [
+        "Documentation",
+        "Text Formatting",
+        "Web Content"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "Static Site Generation",
+        "Frontend"
       ]
     },
     {
-      "name": "SQL",
-      "icon": "simple-icons:mysql",
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "Web Server",
+        "Reverse Proxy",
+        "Load Balancing"
       ]
     },
     {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
+      "name": "Embedded C",
+      "icon": "devicon-plain:embeddedc",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
+        "Embedded Systems",
+        "Firmware Development",
+        "Low-Level Programming"
       ]
     },
     {
-      "name": "Git",
-      "icon": "mdi:git",
+      "name": "Rocky Linux",
+      "icon": "simple-icons:rockylinux",
+      "level": "Intermediate",
+      "keywords": [
+        "Operating System",
+        "Linux Distribution",
+        "Server Management"
+      ]
+    },
+    {
+      "name": "Android",
+      "icon": "simple-icons:android",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Java",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "HarmonyOS",
+      "icon": "simple-icons:harmonyos",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Operating System",
+        "IoT"
+      ]
+    },
+    {
+      "name": "HisiNearLink",
+      "icon": "simple-icons:huawei",
+      "level": "Intermediate",
+      "keywords": [
+        "IoT",
+        "Smart Home",
+        "Connectivity"
+      ]
+    },
+    {
+      "name": "Home Assistant",
+      "icon": "simple-icons:homeassistant",
+      "level": "Intermediate",
+      "keywords": [
+        "Home Automation",
+        "IoT",
+        "Smart Home"
+      ]
+    },
+    {
+      "name": "Hexo",
+      "icon": "simple-icons:hexo",
+      "level": "Intermediate",
+      "keywords": [
+        "Static Site Generation",
+        "Web Development",
+        "Blogging"
+      ]
+    },
+    {
+      "name": "Gitee",
+      "icon": "simple-icons:gitee",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Git",
+        "Collaboration"
       ]
     },
     {
@@ -272,91 +507,97 @@
       "keywords": [
         "Version Control",
         "Collaboration",
-        "Source Code",
-        "Git"
+        "Open Source"
       ]
     },
     {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
+      "name": "Git",
+      "icon": "mdi:git",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Version Control",
+        "Collaboration",
+        "Source Code Management"
       ]
     },
     {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
+      "name": "LCEDA",
+      "icon": "simple-icons:easyeda",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "PCB Design",
+        "Electronics",
+        "Schematic Design"
       ]
     },
     {
-      "name": "Docker",
-      "icon": "mdi:docker",
+      "name": "Photoshop",
+      "icon": "devicon-plain:photoshop",
       "level": "Intermediate",
       "keywords": [
-        "Virtual Environments",
-        "Backend"
+        "Graphic Design",
+        "Image Editing",
+        "Digital Art"
       ]
     },
     {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
+      "name": "Filmora",
+      "icon": "simple-icons:wondersharefilmora",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
+        "Video Editing",
+        "Multimedia",
+        "Content Creation"
       ]
     },
     {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
+      "name": "Douyin",
+      "icon": "ri:tiktok-fill",
       "level": "Intermediate",
       "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
+        "Social Media",
+        "Video Sharing",
+        "Content Creation"
       ]
     },
     {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
+      "name": "OpenCV",
+      "icon": "simple-icons:opencv",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
+        "Computer Vision",
+        "Image Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "PaddlePaddle",
+      "icon": "simple-icons:paddlepaddle",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "AI Framework"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "icon": "simple-icons:tensorflow",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "AI Framework"
+      ]
+    },
+    {
+      "name": "HuggingFace",
+      "icon": "simple-icons:huggingface",
+      "level": "Intermediate",
+      "keywords": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI Framework"
       ]
     }
   ],
@@ -381,44 +622,72 @@
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "Hny0305Lin",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "NearLink Core Board",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://i0.hdslb.com/bfs/article/c83ea056948206666a14c3e62d8bda8d174356237.png@1e_1c.webp",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://i0.hdslb.com/bfs/article/f4df4c6c985a71cfff710d96ec8d803e174356237.png@1e_1c.webp"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "A Huawei NearLink embedded device for the Internet of Everything scenario that is compatible with PC/mobile products. It is a core board that integrates the NearLink protocol stack and provides a standard interface for the application layer.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "✨ Hi2821 Chip, Shanghai HiSilicon Research, SLE 8Mbps, Polar.",
+        "😄 Support PC/Android/Non-Huawei HarmonyOS devices.",
+        "🆒 Built-in CH340E, CH334R, MT9700 and other excellent domestic chips.",
+        "📱 NLChat android app is suitable for this product."
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
-    },
+      "url": "https://u.lceda.cn/join?type=project&key=4022683887858cb0d8d64c1576c627ea&inviter=0e487025723e4a1dabc7f80abf6ba908",
+      "github": "https://github.com/Hny0305Lin/Hi2821_Dev_Board"
+    },    
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "NLChat & CH34xDrive",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
+        "url": "https://i0.hdslb.com/bfs/article/7ba75417be3b3fabf271980516b09640174356237.png@1e_1c.webp",
         "position": "background"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "A software for Android APP that can use the NearLink Network with plug-in behavior on mobile devices.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "🎯 Support Hi2821/Hi3863/WS63 NearLink Devices Board connect to Android/Non-Huawei HarmonyOS devices.",
+        "🎯 Support BearPi/Hihope/Others open source sdk.",
+        "✨ Support NearLink Network P2P Chat.",
+        "😄 Support CH34x USB Serial Port Driver.",
+        "🚀 100% open source, fully based on Java."
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://developers.hisilicon.com/postDetail?tid=0276160927675587004",
+      "github": "https://github.com/Hny0305Lin/NLChat"
+    },
+    {
+      "name": "Web-Saas Project",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "🎯 ",
+        "✨ ",
+        "😄 ",
+        "🚀 "
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "预警前线",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "🎯 ",
+        "✨ ",
+        "😄 ",
+        "🚀 "
+      ],
+      "url": "",
+      "github": ""
     }
   ]
 }

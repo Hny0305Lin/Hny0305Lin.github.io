@@ -20,6 +20,9 @@ importers:
       '@fancyapps/ui':
         specifier: ^5.0.36
         version: 5.0.36
+      '@iconify-json/devicon-plain':
+        specifier: ^1.2.3
+        version: 1.2.3
       '@iconify-json/mdi':
         specifier: ^1.2.0
         version: 1.2.0
@@ -575,6 +578,9 @@ packages:
   '@fastify/busboy@2.1.1':
     resolution: {integrity: sha512-vBZP4NlzfOlerQTnba4aqZoMhE/a9HY7HRqoOPaETQcSQuWEIyZMHGfVu6w9wGtGK5fED5qRs2DteVCjOH60sA==}
     engines: {node: '>=14'}
+
+  '@iconify-json/devicon-plain@1.2.3':
+    resolution: {integrity: sha512-roYSKIpTFGrI8GTk2Dg61fwssLB+2+xWR20QnaAQcD2FdfAqSjp0VwhJpUYhOQWz9fZrY+2H6AEUyi0+ym139A==}
 
   '@iconify-json/mdi@1.2.0':
     resolution: {integrity: sha512-E9/3l5Syg3wfuarorFodhn4s8YorxhH3U3U20LaNBNiqw1kFNIDWhF6HymuzAD35k7RH0OBasJ+ZUyFtVVV6eg==}
@@ -3781,6 +3787,10 @@ snapshots:
   '@fancyapps/ui@5.0.36': {}
 
   '@fastify/busboy@2.1.1': {}
+
+  '@iconify-json/devicon-plain@1.2.3':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/mdi@1.2.0':
     dependencies:
