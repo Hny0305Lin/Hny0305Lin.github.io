@@ -68,24 +68,24 @@
     "intro": "Photography is the art of light, and images are the contours of memory.",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@100q_1e_1c.webp",
+        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
         "alt": "Sunset in Nanchang",
         "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@100q_1e_1c.webp",
+        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
         "alt": "My Cat",
         "desc": "A Ragdoll cat who stayed for a year. She's a girl."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@100q_1e_1c.webp",
+        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
         "alt": "Emoji",
         "desc": "True, dude"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/bf0a653b3fee0f474218e9043ca63f58480025691.jpg@100q_1e_1c.webp",
-        "alt": "基尼奇",
-        "desc": "Genshin, great."
+        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
+        "alt": "Cat Kernel Crashed",
+        "desc": "Cat Kernel Crashed"
       }
     ]
   },
@@ -117,7 +117,13 @@
   ],
   "certificates": [
     {
-      "name": "TCCP - Senior Cloud architecture engineer",
+      "name": "Success has lived a day in the world.",
+      "date": "2010-04-14",
+      "url": "",
+      "issuer": "Myself"
+    },
+    {
+      "name": "TCCP - Senior Cloud Architecture Engineer",
       "date": "2023-05-01",
       "url": "",
       "issuer": "Tencent Cloud"
@@ -226,6 +232,7 @@
         "React": "mdi:react",
         "SQL": "simple-icons:mysql",
         "Git": "mdi:git",
+        "GitHub": "mdi:github",
         "NestJS": "simple-icons:nestjs",
         "Vue": "mdi:vuejs"
       }
@@ -503,7 +510,7 @@
     {
       "name": "GitHub",
       "icon": "mdi:github",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -598,6 +605,117 @@
         "Natural Language Processing",
         "Machine Learning",
         "AI Framework"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "simple-icons:php",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Tauri",
+      "icon": "simple-icons:tauri",
+      "level": "Beginner",
+      "keywords": [
+        "Desktop App",
+        "Rust",
+        "Webview"
+      ]
+    },
+    {
+      "name": "Rust",
+      "icon": "simple-icons:rust",
+      "level": "Beginner",
+      "keywords": [
+        "Desktop App",
+        "Webview"
+      ]
+    },
+    {
+      "name": "Socket.IO",
+      "icon": "simple-icons:socketdotio",
+      "level": "Beginner",
+      "keywords": [
+        "Realtime",
+        "Websocket"
+      ]
+    },
+    {
+      "name": "Electron",
+      "icon": "simple-icons:electron",
+      "level": "Beginner",
+      "keywords": [
+        "Desktop App",
+        "Webview"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "Netlify",
+      "icon": "simple-icons:netlify",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "Tencent Cloud",
+      "icon": "simple-icons:tencentqq",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Service"
+      ]
+    },
+    {
+      "name": "Cloudflare Edge Functions",
+      "icon": "simple-icons:cloudflare",
+      "level": "Expert",
+      "keywords": [
+        "Serverless",
+        "Edge Computing"
       ]
     }
   ],
