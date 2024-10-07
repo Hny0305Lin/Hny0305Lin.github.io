@@ -3,7 +3,7 @@
   "pageLayout": "single-column",
   "basics": {
     "name": "Hny0305Lin",
-    "label": "Based in Fuzhou, love China🎉.",
+    "label": "Based in Fuzhou, love China🎉",
     "image": "/avatar.png",
     "email": "lmj-mc@outlook.com",
     "url": "https://github.com/Hny0305Lin",
@@ -65,27 +65,27 @@
     }
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "intro": "Love alone could waken love!",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "image": "https://i0.hdslb.com/bfs/article/c2f0485e1cf528734bd1d16f0bad8030174356237.jpg@1e_1c.webp",
+        "alt": "Sunset in Bìng-tàng",
+        "desc": "Shot on a cloudy day in Bìng-tàng. 2024.05.05"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+        "image": "https://i0.hdslb.com/bfs/article/e155b75a2b3cbf059d9245398100d459174356237.jpg@1e_1c.webp",
+        "alt": "Sunset in Lièng-gŏng gâing",
+        "desc": "Shot on a cloudless sky in Lièng-gŏng gâing. 2024.05.28"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
+        "image": "https://i0.hdslb.com/bfs/article/df45a14dee338425b9d112849a2a1189174356237.png@1e_1c.webp",
+        "alt": "YJQX预警前线",
+        "desc": "YJQX预警前线，福建省第八届“互联网+”创新创业大赛，校赛三等奖，省赛铜奖，第十一届“锐智杯”福建省大学生智能设计大赛省赛，银奖"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "image": "https://i0.hdslb.com/bfs/article/517c60e1b162a021feefe86c9eb7da6d174356237.jpg@1e_1c.webp",
+        "alt": "HuoDirty活土壤",
+        "desc": "HuoDirty, 福建省第九届“互联网+”创新创业大赛，校赛优秀奖，ThingsBoard + YourenIOT"
       }
     ]
   },
@@ -764,7 +764,7 @@
       "github": "https://github.com/Hny0305Lin/Hi2821_Dev_Board"
     },    
     {
-      "name": "NLChat & CH34xDrive",
+      "name": "NLChat & CH34xDriver",
       "image": {
         "url": "https://i0.hdslb.com/bfs/article/7ba75417be3b3fabf271980516b09640174356237.png@1e_1c.webp",
         "position": "background"
@@ -786,26 +786,29 @@
       "isActive": true,
       "description": "",
       "highlights": [
-        "🎯 ",
-        "✨ ",
-        "😄 ",
-        "🚀 "
+        "🎯 Pics + Fsvideos + NextCloud + Mirryinher + Gits + Hexo + CDN + IPFS + Docs + COS/H2COS + Serverless.",
+        "✨ Software as a Service, Cloud Computing, Serverless, Edge Computing.",
+        "😄 Elastic properties, Independent research and development.",
+        "😄 Unlimited computing power, Perfect service.",
+        "🚀 Thanks OranMe."
       ],
-      "url": "",
-      "github": ""
+      "url": "https://www.haohanyh.ovh",
+      "github": "https://github.com/Hny0305Lin/Web-saas-in-haohanyh.ovh"
     },
     {
       "name": "预警前线",
+      "image": {
+        "url": "https://i0.hdslb.com/bfs/article/8252ef531342a080f71afd660a0e0673174356237.png",
+        "position": "background"
+      },
       "isActive": true,
       "description": "",
       "highlights": [
-        "🎯 ",
-        "✨ ",
-        "😄 ",
-        "🚀 "
-      ],
-      "url": "",
-      "github": ""
+        "🎯 精准潜在危险电路检测，220V 50Hz兼容中国大陆标准",
+        "✨ 创新的“入户前”的安全智能家居解决方案",
+        "😄 项目荣获多项创新创业等大学生竞赛，获得多方面认可",
+        "🚀 浩瀚银河组织负责该项目APP维护、Java后端API维护"
+      ]
     }
   ]
 }
