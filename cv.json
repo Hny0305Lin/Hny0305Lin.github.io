@@ -809,6 +809,59 @@
         "😄 项目荣获多项创新创业等大学生竞赛，获得多方面认可",
         "🚀 浩瀚银河组织负责该项目APP维护、Java后端API维护"
       ]
+    },
+    {
+      "name": "HuaweiCloud + OpenHarmony + SmartHome",
+      "isActive": true,
+      "description": "Open source our exploration on Hi3861 and IoT (SmartHome)",
+      "highlights": [
+        "🎯 Support Hi3861 WiFi Devices Board connect to Android/Non-Huawei HarmonyOS devices.",
+        "🎯 Support BearPi/Hihope/Others open source sdk.",
+        "🚀 100% open source, fully based on Java."
+      ],
+      "url": "",
+      "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectX"
+    },
+    {
+      "name": "HuaweiCloud + OpenHarmony + Watering",
+      "isActive": true,
+      "description": "Open source our exploration on Hi3861 and IoT (Watering the Flowers)",
+      "highlights": [
+        "🎯 Support Hi3861 WiFi Devices Board connect to Android/Non-Huawei HarmonyOS devices.",
+        "🎯 Support BearPi/Hihope/Others open source sdk.",
+        "✨ Support Android NFC and NFC Tag.",
+        "🚀 100% open source, fully based on Java."
+      ],
+      "url": "",
+      "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY"
+    },
+    {
+      "name": "HuaweiCloud IoTDA API",
+      "isActive": true,
+      "description": "Huawei Cloud IoTDA Communication Code",
+      "highlights": [
+        "🎯 Support HuaweiCloud IoTDA. (Beijing-4 Free)",
+        "✨ Support For SmartHome, IoT(MQTT).",
+        "🚀 100% open source, fully based on Java."
+      ],
+      "url": "",
+      "github": "https://github.com/Hny0305Lin/Huawei-IAM-Java"
+    },
+    {
+      "name": "MicroBit Robot",
+      "isActive": true,
+      "description": "MicroBit embeddedc.",
+      "highlights": [
+        "🎯 Support MicroBit Robot.",
+        "✨ Cbit: https://github.com/Hny0305Lin/Microbit-Cbit",
+        "✨ Cbit_IR: https://github.com/Hny0305Lin/Microbit-Cbit_IR",
+        "✨ TM1637: https://github.com/Hny0305Lin/Microbit-TM1637",
+        "✨ Sonar: https://github.com/Hny0305Lin/Microbit-Sonar",
+        "✨ DS1302: https://github.com/Hny0305Lin/Microbit-DS1302",
+        "✨ BH1750: https://github.com/Hny0305Lin/Microbit-BH1750"
+      ],
+      "url": "",
+      "github": "https://github.com/Hny0305Lin?page=3&tab=repositories"
     }
   ]
 }
