@@ -19,8 +19,14 @@
       {
         "network": "QQ",
         "icon":"ri:qq-fill",
-        "username": "XiaoXi",
+        "username": "XiaoXiXi（小汐汐）",
         "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=1553809191"
+      },
+      {
+        "network": "WeChat",
+        "icon":"mdi:wechat",
+        "username": "SailorMoon_Usagi16",
+        "url": "https://s.wechat.com/d/UsagiLin_Seramun"
       },
       {
         "network": "GitHub",
@@ -65,7 +71,7 @@
     }
   },
   "images": {
-    "intro": "Love alone could waken love!",
+    "intro": "Love alone could waken love! 只有爱才能唤醒爱。",
     "list": [
       {
         "image": "https://i0.hdslb.com/bfs/article/c2f0485e1cf528734bd1d16f0bad8030174356237.jpg@1e_1c.webp",
@@ -116,12 +122,6 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
     {
       "name": "TCCP - Senior Cloud Architecture Engineer",
       "date": "2023-05-01",
