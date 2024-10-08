@@ -808,7 +808,8 @@
       "name": "预警前线",
       "image": {
         "url": "https://i0.hdslb.com/bfs/article/8252ef531342a080f71afd660a0e0673174356237.png",
-        "position": "background"
+        "position": "background",
+        "dark": "https://i0.hdslb.com/bfs/article/8252ef531342a080f71afd660a0e0673174356237.png"
       },
       "isActive": true,
       "description": "",
@@ -821,11 +822,6 @@
     },
     {
       "name": "KawaMoeii",
-      "image": {
-        "url": "",
-        "position": "background",
-        "dark": ""
-      },
       "isActive": true,
       "description": "A professional APP that participated in the embedded technology application development competition of the higher vocational group of the Fujian Vocational College Skills Competition.",
       "highlights": [
@@ -833,7 +829,8 @@
         "✨ OpenCV + TensorflowLite, used for Android embedded Traffic lights, block object detection, license plate center point positioning and color picking.",
         "😄 Fujian Vocational School Skills Competition, Higher Vocational Group Embedded Technology Application Development Competition, third place in the group.",
         "🚀 Java, C++, CMake, C, etc."
-      ]
+      ],
+      "github": "https://github.com/Hny0305Lin/Haohanyh_KawaMoeii_Android"
     },
     {
       "name": "HuaweiCloud + OpenHarmony + SmartHome",
@@ -844,7 +841,6 @@
         "🎯 Support BearPi/Hihope/Others open source sdk.",
         "🚀 100% open source, fully based on Java."
       ],
-      "url": "",
       "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectX"
     },
     {
@@ -857,7 +853,6 @@
         "✨ Support Android NFC and NFC Tag.",
         "🚀 100% open source, fully based on Java."
       ],
-      "url": "",
       "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY"
     },
     {
@@ -869,7 +864,6 @@
         "✨ Support For SmartHome, IoT(MQTT).",
         "🚀 100% open source, fully based on Java."
       ],
-      "url": "",
       "github": "https://github.com/Hny0305Lin/Huawei-IAM-Java"
     },
     {
@@ -885,7 +879,6 @@
         "✨ DS1302: https://github.com/Hny0305Lin/Microbit-DS1302",
         "✨ BH1750: https://github.com/Hny0305Lin/Microbit-BH1750"
       ],
-      "url": "",
       "github": "https://github.com/Hny0305Lin?page=3&tab=repositories"
     }
   ]
