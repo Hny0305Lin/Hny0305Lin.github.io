@@ -6,7 +6,7 @@
     "label": "Based in Fuzhou, love China🎉",
     "image": "/avatar.png",
     "email": "lmj-mc@outlook.com",
-    "url": "https://github.com/Hny0305Lin",
+    "url": "https://hny0305lin.haohanyh.ovh/",
     "summary": "🤗 I am a programmer developed by Java language and Android software. \n🔭 I am studying the content of the Internet of Things application major and AI.",
     "theme": "red",
     "location": {
@@ -134,7 +134,7 @@
     {
       "name": "TCCP - Senior Cloud Architecture Engineer",
       "date": "2023-05-01",
-      "url": "",
+      "url": "https://cloud.tencent.com/document/product/658/106113",
       "issuer": "Tencent Cloud"
     },
     {
@@ -146,13 +146,13 @@
     {
       "name": "物联网系统应用技术（中级）",
       "date": "2023-03-30",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "工业和信息化部教育与考试中心"
     },
     {
       "name": "福建省职业院校技能大赛高职组嵌入式技术应用开发比赛，团体三等奖",
       "date": "2023-06-01",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "福建省职业院校技能大赛组委会"
     },
     {
@@ -176,37 +176,37 @@
     {
       "name": "福建省第十四届中职（技工）院校学生职业技能竞赛信息技术专业智能家居安装与维护（团体）项目，二等奖",
       "date": "2018-12-16",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "福建省教育局、福州市人力资源和社会保障局"
     },
     {
       "name": "全国计算机等级考试一级合格，计算机基础及MS Office应用",
       "date": "2022-09-01",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "教育部教育考试院"
     },
     {
       "name": "全国计算机等级考试一级合格，计算机基础及WPS Office应用",
       "date": "2023-12-01",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "教育部教育考试院"
     },
     {
       "name": "普通话水平测试等级，二级乙等",
       "date": "2022-05-02",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "国家语言文字工作委员会、福建省语言文字工作委员会办公室"
     },
     {
       "name": "Newland Cert，闽江师范高等专科学校实训基地Java程序设计等级实训，三级考核",
       "date": "2022-06-28",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "北京新大陆时代教育科技有限公司，闽江师范高等专科学校"
     },
     {
       "name": "Newland Cert，行业岗位实训班结业证书，具有Java企业级应用开发、物联网工程实施与运维，及物联网行业应用开发能力",
       "date": "2022-12-08",
-      "url": "",
+      "url": "https://hny0305lin.haohanyh.ovh/",
       "issuer": "北京新大陆时代教育科技有限公司，闽江师范高等专科学校"
     }
   ],
@@ -818,7 +818,8 @@
         "✨ 创新的“入户前”的安全智能家居解决方案",
         "😄 项目荣获多项创新创业等大学生竞赛，获得多方面认可",
         "🚀 浩瀚银河组织负责该项目APP维护、Java后端API维护"
-      ]
+      ],
+      "url": "https://mp.weixin.qq.com/s/KoxXhrqdGVcoLK66OD47pw"
     },
     {
       "name": "KawaMoeii",
@@ -830,6 +831,7 @@
         "😄 Fujian Vocational School Skills Competition, Higher Vocational Group Embedded Technology Application Development Competition, third place in the group.",
         "🚀 Java, C++, CMake, C, etc."
       ],
+      "url": "https://github.com/Hny0305Lin/Haohanyh_KawaMoeii_Android",
       "github": "https://github.com/Hny0305Lin/Haohanyh_KawaMoeii_Android"
     },
     {
@@ -841,6 +843,7 @@
         "🎯 Support BearPi/Hihope/Others open source sdk.",
         "🚀 100% open source, fully based on Java."
       ],
+      "url": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectX",
       "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectX"
     },
     {
@@ -853,6 +856,7 @@
         "✨ Support Android NFC and NFC Tag.",
         "🚀 100% open source, fully based on Java."
       ],
+      "url": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY",
       "github": "https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY"
     },
     {
@@ -864,6 +868,7 @@
         "✨ Support For SmartHome, IoT(MQTT).",
         "🚀 100% open source, fully based on Java."
       ],
+      "url": "https://github.com/Hny0305Lin/Huawei-IAM-Java",
       "github": "https://github.com/Hny0305Lin/Huawei-IAM-Java"
     },
     {
@@ -879,6 +884,7 @@
         "✨ DS1302: https://github.com/Hny0305Lin/Microbit-DS1302",
         "✨ BH1750: https://github.com/Hny0305Lin/Microbit-BH1750"
       ],
+      "url": "https://github.com/Hny0305Lin/Microbit-Cbit",
       "github": "https://github.com/Hny0305Lin?page=3&tab=repositories"
     }
   ]

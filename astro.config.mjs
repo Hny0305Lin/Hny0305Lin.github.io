@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
+import robotsTxt from 'astro-robots-txt';
 import tailwind from "@astrojs/tailwind";
 import astroIcon from 'astro-icon';
 import playformCompress from "@playform/compress";
@@ -9,6 +10,7 @@ export default defineConfig({
   site: 'https://Hny0305Lin.github.io',
   integrations: [
     tailwind(),
+    robotsTxt(),
     astroIcon({
       include: {
         mdi: ["*"],
