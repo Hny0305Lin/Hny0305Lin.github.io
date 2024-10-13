@@ -755,6 +755,20 @@
   ],
   "projects": [
     {
+      "name": "China Mainland Cloud Drive Share Resolver",
+      "image": {
+        "url": "https://s2.loli.net/2024/10/13/Z4NEWstjgrJiQlG.png",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "A web app that can resolve the Cloud Drive Share link of China Mainland and provide a direct download link.",
+      "highlights": [
+
+      ],
+      "url": "https://sharelink-resolver.what-the-fuck.sbs",
+      "github": "https://github.com/Hny0305Lin/321Pan_Share_Resolver"
+    },
+    {
       "name": "NearLink Core Board",
       "image": {
         "url": "https://i0.hdslb.com/bfs/article/c83ea056948206666a14c3e62d8bda8d174356237.png@1e_1c.webp",
