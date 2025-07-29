@@ -18,43 +18,43 @@
     "profiles": [
       {
         "network": "QQ",
-        "icon":"ri:qq-fill",
+        "icon": "ri:qq-fill",
         "username": "XiaoXiXi（小汐汐）",
         "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=1553809191"
       },
       {
         "network": "GitHub",
-        "icon":"mdi:github",
+        "icon": "mdi:github",
         "username": "Hny0305Lin",
         "url": "https://github.com/Hny0305Lin"
       },
       {
         "network": "GitHub",
-        "icon":"mdi:github",
+        "icon": "mdi:github",
         "username": "LinMeng",
         "url": "https://github.com/LinMeng-Haohanyh"
       },
       {
         "network": "Gitee",
-        "icon":"simple-icons:gitee",
+        "icon": "simple-icons:gitee",
         "username": "Lin.孟",
         "url": "https://gitee.com/su-muyao"
       },
       {
         "network": "HuggineFace",
-        "icon":"simple-icons:huggingface",
+        "icon": "simple-icons:huggingface",
         "username": "Hny0305Lin",
         "url": "https://huggingface.co/Hny0305Lin"
       },
       {
         "network": "Hisilicon",
-        "icon":"simple-icons:huawei",
+        "icon": "simple-icons:huawei",
         "username": "SailorMoon_Usagi16",
         "url": "https://developers.hisilicon.com/userhomepage?uid=229213b344fb46238d47bc1f209583c9"
       },
       {
         "network": "Minecraft",
-        "icon":"mdi:minecraft",
+        "icon": "mdi:minecraft",
         "username": "UsagiLin_Seramun",
         "url": "https://namemc.com/profile/UsagiLin_Seramun.1"
       }
@@ -150,6 +150,24 @@
       "issuer": "工业和信息化部教育与考试中心"
     },
     {
+      "name": "星闪 & MCU开发者体验馆活动——最佳活跃奖",
+      "date": "2024-12-15",
+      "url": "https://developer.huawei.com/home/hdy2024.html",
+      "issuer": "华为技术有限公司 华为松山湖溪流背坡村J区 J7-3-A11"
+    },
+    {
+      "name": "星闪 & MCU开发者体验馆活动——卓越体验官奖",
+      "date": "2024-12-15",
+      "url": "https://developer.huawei.com/home/hdy2024.html",
+      "issuer": "华为技术有限公司 华为松山湖溪流背坡村J区 J7-3-A11"
+    },
+    {
+      "name": "华为海思卓越社区价值贡献奖",
+      "date": "2024-12-15",
+      "url": "https://bbs.huaweicloud.com/live/cloud_live/hdy2024_live_keynote.html",
+      "issuer": "华为技术有限公司 华为松山湖三丫坡"
+    },
+    {
       "name": "福建省职业院校技能大赛高职组嵌入式技术应用开发比赛，团体三等奖",
       "date": "2023-06-01",
       "url": "https://hny0305lin.haohanyh.ovh/",
@@ -211,8 +229,7 @@
     }
   ],
   "awards": [
-    {
-    }
+    {}
   ],
   "work": [
     {
@@ -265,7 +282,8 @@
       "achievements": [
         "Haohanyh.com Blog 10,000+ people read the excellent articles.",
         "Haohanyh.ovh WebSaas China International College Students’ Innovation Competition 2022 Fujian Province Division, Third Prize.",
-        "Haohanyh IoT Android App, China Computer Software Copyright No. 11416943."
+        "Haohanyh IoT Android App, China Computer Software Copyright No. 11416943.",
+        "Haohanyh NearLink App, NearLinkChat(NLChat), NearLink & MCU Developer Experience Hall Event - Outstanding Experience Officer Award."
       ],
       "skills": {
         "C#": "mdi:language-csharp",
@@ -762,9 +780,7 @@
       },
       "isActive": true,
       "description": "A web app that can resolve the Cloud Drive Share link of China Mainland and provide a direct download link.",
-      "highlights": [
-
-      ],
+      "highlights": [],
       "url": "https://sharelink-resolver.what-the-fuck.sbs",
       "github": "https://github.com/Hny0305Lin/321Pan_Share_Resolver"
     },
@@ -785,7 +801,7 @@
       ],
       "url": "https://u.lceda.cn/join?type=project&key=4022683887858cb0d8d64c1576c627ea&inviter=0e487025723e4a1dabc7f80abf6ba908",
       "github": "https://github.com/Hny0305Lin/Hi2821_Dev_Board"
-    },    
+    },
     {
       "name": "NLChat & CH34xDriver",
       "image": {
