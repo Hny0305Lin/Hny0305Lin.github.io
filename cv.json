@@ -803,6 +803,24 @@
       "github": "https://github.com/Hny0305Lin/Hi2821_Dev_Board"
     },
     {
+      "name": "NearLink Hi3863 Gateway Board",
+      "image": {
+        "url": "",
+        "position": "container",
+        "dark": ""
+      },
+      "isActive": true,
+      "description": "Huawei's NearLink embedded device for the Internet of Everything scenario is an integrated NearLink protocol stack that highly integrates NearLink WiFi, Bluetooth and Ethernet network communication, and provides a standard interface for the application layer.",
+      "highlights": [
+        "✨ Hi3863 Chip, Shanghai HiSilicon Research, SLE 8Mbps, Polar.",
+        "😄 NearLink 1.0 + WiFi 6 + Bluetooth",
+        "🆒 Built-in CH340E, CH334R, MT9700 and other excellent domestic chips.",
+        "💻 Support any communication network at the existing stage"
+      ],
+      "url": "https://u.lceda.cn/join?type=project&key=3633343bad12884ff258a4767b3d18e2&inviter=0e487025723e4a1dabc7f80abf6ba908",
+      "github": ""
+    },
+    {
       "name": "NLChat & CH34xDriver",
       "image": {
         "url": "https://i0.hdslb.com/bfs/article/7ba75417be3b3fabf271980516b09640174356237.png@1e_1c.webp",
