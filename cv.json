@@ -804,11 +804,6 @@
     },
     {
       "name": "NearLink Hi3863 Gateway Board",
-      "image": {
-        "url": "",
-        "position": "container",
-        "dark": ""
-      },
       "isActive": true,
       "description": "Huawei's NearLink embedded device for the Internet of Everything scenario is an integrated NearLink protocol stack that highly integrates NearLink WiFi, Bluetooth and Ethernet network communication, and provides a standard interface for the application layer.",
       "highlights": [
