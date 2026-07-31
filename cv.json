@@ -329,7 +329,7 @@
         "PaddlePaddle": "simple-icons:paddlepaddle",
         "TensorFlow": "simple-icons:tensorflow",
         "HuggingFace": "simple-icons:huggingface",
-        "Injective": "mdi:alpha-i-circle-outline",
+        "Injective": "injective",
         "CosmWasm": "mdi:code-braces",
         "Solidity": "simple-icons:solidity",
         "Blockchain": "simple-icons:bnbchain",
