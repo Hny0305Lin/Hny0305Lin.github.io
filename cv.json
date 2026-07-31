@@ -786,15 +786,6 @@
         "Contributed to the product and engineering implementation of decentralized Git: storing Git packfiles on IPFS and managing repository refs and permissions through CosmWasm contracts on Injective.",
         "Contributed to igit CLI and git-remote-igit, enabling push, clone, pull, GitHub import, and cross-platform toolchain releases."
       ],
-      "technologies": [
-        { "name": "Rust", "icon": "simple-icons:rust" },
-        { "name": "Go", "icon": "simple-icons:go" },
-        { "name": "TypeScript", "icon": "simple-icons:typescript" },
-        { "name": "CosmWasm", "icon": "mdi:link-variant" },
-        { "name": "Injective", "icon": "mdi:link-variant" },
-        { "name": "IPFS", "icon": "simple-icons:ipfs" },
-        { "name": "Git", "icon": "simple-icons:git" }
-      ],
       "url": "https://github.com/Hny0305Lin/next-injective-git",
       "github": "https://github.com/Hny0305Lin/next-injective-git"
     },
@@ -805,17 +796,6 @@
       "highlights": [
         "Contributed to the frontend experience and Web3 product implementation, turning natural-language requests into AI risk questionnaires and three-tier insurance portfolios informed by Polymarket data.",
         "Contributed to wallet connection, USDC premium payments, and oracle-based settlement flows, completing the end-to-end experience from risk assessment to policy demonstration."
-      ],
-      "technologies": [
-        { "name": "React", "icon": "simple-icons:react" },
-        { "name": "TypeScript", "icon": "simple-icons:typescript" },
-        { "name": "Vite", "icon": "simple-icons:vite" },
-        { "name": "Python", "icon": "simple-icons:python" },
-        { "name": "FastAPI", "icon": "simple-icons:fastapi" },
-        { "name": "Solidity", "icon": "simple-icons:solidity" },
-        { "name": "Injective EVM", "icon": "mdi:ethereum" },
-        { "name": "Docker", "icon": "simple-icons:docker" },
-        { "name": "Chainlink", "icon": "simple-icons:chainlink" }
       ],
       "url": "https://gallery.adventure-x.org/projects/cmrz7trrf000102jkop4nvkm4",
       "github": "https://github.com/Hny0305Lin/AdventureX2026-web3"
