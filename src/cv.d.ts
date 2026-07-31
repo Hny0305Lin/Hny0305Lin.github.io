@@ -74,6 +74,7 @@ interface Awards {
   date: string;
   awarder: string;
   summary: string;
+  url?: string;
 }
 
 interface Certificates {

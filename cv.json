@@ -229,7 +229,13 @@
     }
   ],
   "awards": [
-    {}
+    {
+      "title": "度小满 ｜ Money Whisperer：你的第一个AI native理财产品赛道二等奖",
+      "date": "2026",
+      "awarder": "AdventureX 2026 · 度小满",
+      "summary": "AdventureX 2026 项目赛道二等奖。",
+      "url": "https://gallery.adventure-x.org/projects/cmrz7trrf000102jkop4nvkm4"
+    }
   ],
   "work": [
     {
@@ -772,6 +778,28 @@
     }
   ],
   "projects": [
+    {
+      "name": "Next Injective Git (igit)",
+      "isActive": true,
+      "description": "基于 Injective 与 IPFS 的去中心化 Git 版本控制平台，将 Git 对象存储在 IPFS，并把仓库元数据与 refs 记录在 Injective 链上。",
+      "highlights": [
+        "CosmWasm repo-registry 合约管理仓库、refs 与协作者权限。",
+        "提供 igit CLI 与 git-remote-igit，支持 push、clone、pull 及 GitHub 仓库迁移。"
+      ],
+      "url": "https://github.com/Hny0305Lin/next-injective-git",
+      "github": "https://github.com/Hny0305Lin/next-injective-git"
+    },
+    {
+      "name": "xEngine · 差分机",
+      "isActive": true,
+      "description": "Injective EVM 测试网上的自然语言投保 dApp，将用户诉求转化为 AI 风险问卷与可执行的保险组合。",
+      "highlights": [
+        "AI 风险问卷检索 Polymarket，并组合三档保险方案。",
+        "支持钱包支付 USDC 保费，并通过预言机完成结算赔付。"
+      ],
+      "url": "https://github.com/s1k4fz/AdventureX2026-web3",
+      "github": "https://github.com/s1k4fz/AdventureX2026-web3"
+    },
     {
       "name": "China Mainland Cloud Drive Share Resolver",
       "image": {
