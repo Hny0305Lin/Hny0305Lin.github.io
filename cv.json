@@ -240,7 +240,8 @@
       "title": "2026年睿抗机器人开发者大赛福建省赛第二名",
       "date": "2026-07-05",
       "awarder": "睿抗机器人开发者大赛",
-      "summary": "作为指导老师带队参赛并获得福建省赛第二名。"
+      "summary": "作为指导老师带队参赛并获得福建省赛第二名。",
+      "url": "https://github.com/Hny0305Lin/KittyMoeii"
     }
   ],
   "work": [
@@ -827,7 +828,7 @@
         "Worked with PaddlePaddle model training, evaluation, and inference workflows."
       ],
       "url": "https://github.com/Hny0305Lin/PaddleClas",
-      "github": "https://github.com/Hny0305Lin/KittyMoeii"
+      "github": "https://github.com/Hny0305Lin/PaddleClas"
     },
     {
       "name": "KittyMoeii · Next-Generation Embedded App",
@@ -849,7 +850,7 @@
         "Demonstrated on-device TensorFlow Lite inference for responsive embedded vision applications."
       ],
       "url": "https://github.com/Hny0305Lin/Android_Camera_TFLite_TrafficSign",
-      "github": "https://github.com/Hny0305Lin/KittyMoeii"
+      "github": "https://github.com/Hny0305Lin/Android_Camera_TFLite_TrafficSign"
     },
     {
       "name": "China Mainland Cloud Drive Share Resolver",
