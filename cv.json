@@ -235,6 +235,12 @@
       "awarder": "AdventureX 2026 · 度小满",
       "summary": "AdventureX 2026 项目赛道二等奖。",
       "url": "https://gallery.adventure-x.org/projects/cmrz7trrf000102jkop4nvkm4"
+    },
+    {
+      "title": "2026年睿抗机器人开发者大赛福建省赛第二名",
+      "date": "2026-07-05",
+      "awarder": "睿抗机器人开发者大赛",
+      "summary": "作为指导老师带队参赛并获得福建省赛第二名。"
     }
   ],
   "work": [
@@ -799,6 +805,59 @@
       ],
       "url": "https://gallery.adventure-x.org/projects/cmrz7trrf000102jkop4nvkm4",
       "github": "https://github.com/Hny0305Lin/AdventureX2026-web3"
+    },
+    {
+      "name": "PaddleClas · PULC Traffic Sign Recognition",
+      "isActive": true,
+      "description": "A PaddlePaddle-based visual recognition project for PULC traffic sign detection and classification, developed as part of the robotics competition work.",
+      "highlights": [
+        "Built and adapted a PULC traffic sign recognition pipeline for embedded deployment scenarios.",
+        "Worked with PaddlePaddle model training, evaluation, and inference workflows."
+      ],
+      "technologies": [
+        { "name": "PaddlePaddle", "icon": "simple-icons:paddlepaddle" },
+        { "name": "Python", "icon": "simple-icons:python" },
+        { "name": "C++", "icon": "mdi:language-cpp" },
+        { "name": "CMake", "icon": "simple-icons:cmake" },
+        { "name": "Computer Vision", "icon": "mdi:eye-outline" }
+      ],
+      "url": "https://github.com/Hny0305Lin/PaddleClas",
+      "github": "https://github.com/Hny0305Lin/KittyMoeii"
+    },
+    {
+      "name": "KittyMoeii · Next-Generation Embedded App",
+      "isActive": true,
+      "description": "A next-generation embedded Android application adapted for junior students and teammates, supporting the robotics competition workflow.",
+      "highlights": [
+        "Adapted an embedded Android app for teaching, experimentation, and competition use cases.",
+        "Integrated device-side capabilities into a reusable Java-based application foundation."
+      ],
+      "technologies": [
+        { "name": "Java", "icon": "mdi:language-java" },
+        { "name": "C++", "icon": "mdi:language-cpp" },
+        { "name": "Android", "icon": "simple-icons:android" },
+        { "name": "CMake", "icon": "simple-icons:cmake" },
+        { "name": "Embedded Systems", "icon": "devicon-plain:embeddedc" }
+      ],
+      "url": "https://github.com/Hny0305Lin/KittyMoeii",
+      "github": "https://github.com/Hny0305Lin/KittyMoeii"
+    },
+    {
+      "name": "Android Camera TFLite Traffic Sign",
+      "isActive": true,
+      "description": "An Android real-time traffic sign recognition demo using the device camera and TensorFlow Lite.",
+      "highlights": [
+        "Implemented camera-based real-time traffic sign recognition on Android.",
+        "Demonstrated on-device TensorFlow Lite inference for responsive embedded vision applications."
+      ],
+      "technologies": [
+        { "name": "Kotlin", "icon": "simple-icons:kotlin" },
+        { "name": "Android", "icon": "simple-icons:android" },
+        { "name": "TensorFlow Lite", "icon": "simple-icons:tensorflow" },
+        { "name": "Computer Vision", "icon": "mdi:camera-outline" }
+      ],
+      "url": "https://github.com/Hny0305Lin/Android_Camera_TFLite_TrafficSign",
+      "github": "https://github.com/Hny0305Lin/KittyMoeii"
     },
     {
       "name": "China Mainland Cloud Drive Share Resolver",
