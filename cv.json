@@ -814,13 +814,6 @@
         "Built and adapted a PULC traffic sign recognition pipeline for embedded deployment scenarios.",
         "Worked with PaddlePaddle model training, evaluation, and inference workflows."
       ],
-      "technologies": [
-        { "name": "PaddlePaddle", "icon": "simple-icons:paddlepaddle" },
-        { "name": "Python", "icon": "simple-icons:python" },
-        { "name": "C++", "icon": "mdi:language-cpp" },
-        { "name": "CMake", "icon": "simple-icons:cmake" },
-        { "name": "Computer Vision", "icon": "mdi:eye-outline" }
-      ],
       "url": "https://github.com/Hny0305Lin/PaddleClas",
       "github": "https://github.com/Hny0305Lin/KittyMoeii"
     },
@@ -832,13 +825,6 @@
         "Adapted an embedded Android app for teaching, experimentation, and competition use cases.",
         "Integrated device-side capabilities into a reusable Java-based application foundation."
       ],
-      "technologies": [
-        { "name": "Java", "icon": "mdi:language-java" },
-        { "name": "C++", "icon": "mdi:language-cpp" },
-        { "name": "Android", "icon": "simple-icons:android" },
-        { "name": "CMake", "icon": "simple-icons:cmake" },
-        { "name": "Embedded Systems", "icon": "devicon-plain:embeddedc" }
-      ],
       "url": "https://github.com/Hny0305Lin/KittyMoeii",
       "github": "https://github.com/Hny0305Lin/KittyMoeii"
     },
@@ -849,12 +835,6 @@
       "highlights": [
         "Implemented camera-based real-time traffic sign recognition on Android.",
         "Demonstrated on-device TensorFlow Lite inference for responsive embedded vision applications."
-      ],
-      "technologies": [
-        { "name": "Kotlin", "icon": "simple-icons:kotlin" },
-        { "name": "Android", "icon": "simple-icons:android" },
-        { "name": "TensorFlow Lite", "icon": "simple-icons:tensorflow" },
-        { "name": "Computer Vision", "icon": "mdi:camera-outline" }
       ],
       "url": "https://github.com/Hny0305Lin/Android_Camera_TFLite_TrafficSign",
       "github": "https://github.com/Hny0305Lin/KittyMoeii"
