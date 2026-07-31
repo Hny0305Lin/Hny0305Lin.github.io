@@ -781,10 +781,10 @@
     {
       "name": "Next Injective Git (igit)",
       "isActive": true,
-      "description": "基于 Injective 与 IPFS 的去中心化 Git 版本控制平台，将 Git 对象存储在 IPFS，并把仓库元数据与 refs 记录在 Injective 链上。",
+      "description": "A decentralized Git version control platform powered by Injective and IPFS. Git objects are stored on IPFS, while repository metadata and refs are recorded on-chain through Injective.",
       "highlights": [
-        "参与去中心化 Git 的产品与工程实现：将 Git packfile 存入 IPFS，并通过 Injective 上的 CosmWasm 合约维护仓库 refs 与权限。",
-        "参与 igit CLI 与 git-remote-igit 的开发，打通 push、clone、pull、GitHub 导入及跨平台工具链发布。"
+        "Contributed to the product and engineering implementation of decentralized Git: storing Git packfiles on IPFS and managing repository refs and permissions through CosmWasm contracts on Injective.",
+        "Contributed to igit CLI and git-remote-igit, enabling push, clone, pull, GitHub import, and cross-platform toolchain releases."
       ],
       "technologies": [
         { "name": "Rust", "icon": "simple-icons:rust" },
@@ -799,12 +799,12 @@
       "github": "https://github.com/Hny0305Lin/next-injective-git"
     },
     {
-      "name": "xEngine · 差分机",
+      "name": "xEngine · Differential Engine",
       "isActive": true,
-      "description": "Injective EVM 测试网上的自然语言投保 dApp，将用户诉求转化为 AI 风险问卷与可执行的保险组合。",
+      "description": "A natural-language insurance dApp on the Injective EVM testnet that transforms user needs into AI risk assessments and executable insurance portfolios.",
       "highlights": [
-        "参与前端交互与 Web3 产品实现：将自然语言诉求转化为 AI 风险问卷，并结合 Polymarket 数据生成三档保险组合。",
-        "参与钱包连接、USDC 保费支付与预言机结算赔付流程，完善从风险评估到保单演示的端到端体验。"
+        "Contributed to the frontend experience and Web3 product implementation, turning natural-language requests into AI risk questionnaires and three-tier insurance portfolios informed by Polymarket data.",
+        "Contributed to wallet connection, USDC premium payments, and oracle-based settlement flows, completing the end-to-end experience from risk assessment to policy demonstration."
       ],
       "technologies": [
         { "name": "React", "icon": "simple-icons:react" },
@@ -817,8 +817,8 @@
         { "name": "Docker", "icon": "simple-icons:docker" },
         { "name": "Chainlink", "icon": "simple-icons:chainlink" }
       ],
-      "url": "https://github.com/s1k4fz/AdventureX2026-web3",
-      "github": "https://github.com/s1k4fz/AdventureX2026-web3"
+      "url": "https://gallery.adventure-x.org/projects/cmrz7trrf000102jkop4nvkm4",
+      "github": "https://github.com/Hny0305Lin/AdventureX2026-web3"
     },
     {
       "name": "China Mainland Cloud Drive Share Resolver",
