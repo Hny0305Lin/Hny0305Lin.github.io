@@ -133,6 +133,12 @@ interface Projects {
   highlights: Highlight;
   url: string;
   github?: string;
+  technologies?: Array<ProjectTechnology>;
+}
+
+interface ProjectTechnology {
+  name: string;
+  icon: string;
 }
 
 interface Interests {
